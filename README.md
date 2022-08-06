@@ -1,4 +1,6 @@
-Comando para usar el bot: !snowstorm .iroke. azul  
+Comando para usar el bot: 
+<br>
+!snowstorm .iroke. azul  
 <br>
 !snowstorm .iroke. azul
 <br>
